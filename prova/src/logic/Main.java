@@ -2,7 +2,7 @@ package logic;
 
 public class Main {
     public static void main(String[] args) {
-    	int a = 1;
+    	int a = 2;
         System.out.println(a); 
     }
 }
